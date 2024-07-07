@@ -1,0 +1,4 @@
+numpy
+RPI.GPIO
+paho-mqtt
+aioconsole
